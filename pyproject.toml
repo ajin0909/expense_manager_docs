@@ -1,0 +1,4 @@
+[project]
+name = "expense_manaer_docs"
+authors = [{name = "yeojin, ajin, soyoon, jieun"}]
+dynamic = ["version", "description"]
